@@ -106,7 +106,7 @@ The ```includeWebsitePath``` setting, when set to true, includes everything afte
 Your final code on your website should look something like this:
 ```
     <!--LAPTURE SYSTEMS WEBSITE TO MC CORE SCRIPT-->
-    <script type="text/javascript" src="scripts.lapture.com/website-to-mc.latest.js"></script>
+    <script type="text/javascript" src="services.lapture.com/scripts/website-prompt.latest.js"></script>
     
     <!--LAPTURE SYSTEMS SETTINGS SCRIPT-->
     var settings = {
