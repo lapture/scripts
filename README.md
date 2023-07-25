@@ -17,9 +17,9 @@ Before we dive into the details, let's understand what the script is and how it 
 
 As you create different campaigns for your Mobile customers using a Marketing Chain, you can use this script to tailor your website's behaviour and appearance to meet your specific needs.
 
-**Notify Message:**
+**Alert Message:**
 
-The ```notifyMessage``` controls the message displayed in the prompt box when a user views your website on a mobile device. You can set this message to inform users about the page(s) having a Marketing Chain Campaign.
+The ```alertMessage``` controls the message displayed in the prompt box when a user views your website on a mobile device. You can set this message to inform users about the page(s) having a Marketing Chain Campaign.
 ```
 
     var settings = {             
@@ -106,7 +106,7 @@ The ```includeWebsitePath``` setting, when set to true, includes everything afte
 Your final code on your website should look something like this:
 ```
     <!--LAPTURE SYSTEMS WEBSITE TO MC CORE SCRIPT-->
-    <script type="text/javascript" src="services.lapture.com/scripts/website-prompt.latest.js"></script>
+    <script type="text/javascript" src="https://lapture.com/scripts/website-prompt.latest.min.js"></script>
     
     <!--LAPTURE SYSTEMS SETTINGS SCRIPT-->
     var settings = {
