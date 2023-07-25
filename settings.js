@@ -1,5 +1,5 @@
     <!--LAPTURE SYSTEMS WEBSITE TO MC CORE SCRIPT-->
-    <script type="text/javascript" src="services.lapture.com/scripts/website-prompt.latest.js"></script>
+    <script type="text/javascript" src="lapture.com/scripts/website-prompt.latest.min.js"></script>
     <!--LAPTURE SYSTEMS SETTINGS SCRIPT-->
     var settings = {
         alertMessage: "You've landed on our website...  Click 'OK' to continue on our Mobile App.", // Your Message
